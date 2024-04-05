@@ -1,0 +1,5 @@
+﻿  functions.cpp
+  main.cpp
+C:\Users\jofrc\Program3\Program3\Program3\main.cpp(36,79): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Program3.vcxproj -> C:\Users\jofrc\Program3\Program3\x64\Debug\Program3.exe
